@@ -6,7 +6,7 @@ import {
   Route,
 } from "react-router-dom";
 
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/Homepage";
 import DetailPage from "./pages/DetailPage";
 import RoadmapPage from "./pages/RoadmapPage";
 
